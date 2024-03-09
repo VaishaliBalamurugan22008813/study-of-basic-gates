@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### study-of-basic-digital-IC-s-and-verifictaion-of-truth-tables-for-different-logic-gates-realization
 
 **AIM:** 
 
